@@ -1,0 +1,9 @@
+[package]
+name = "cech-complex"
+version = "0.1.0"
+edition = "2021"
+description = "Čech complex construction from point clouds via ball intersections and nerve computation for topological data analysis"
+license = "MIT"
+repository = "https://github.com/SuperInstance/cech-complex"
+
+[dependencies]
